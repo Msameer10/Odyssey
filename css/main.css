@@ -11,9 +11,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
 #HEading{
 	font-family: Crimson Text, Bahnschrift;
-	font-size: 4em;
+	font-size: 4.5em;
 	padding: auto;
-	color: #F4D03F;
+	color: #F1C40F;
 }
 
 .active{
@@ -22,8 +22,18 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 	color: #000000;
 }
 
+.quote{
+	font-size: 1em;
+	padding: 10px 15px;
+}
+
+#icons{
+	color: black;
+}
+
 #copyrights{
 	font-size: 10px;
+	color: #1C2833; 
 }
 /* ------------- Custom ScrollBar ---------------- */
 
